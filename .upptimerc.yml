@@ -21,7 +21,7 @@ status-website:
   name: SREDevOps.cl
   introTitle: Uptime monitor and status for some of our websites
   introMessage: Powered by [**Upptime**](https://github.com/upptime/upptime)
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
