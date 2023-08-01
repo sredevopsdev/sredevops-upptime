@@ -15,8 +15,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: sredevops.cl
-  baseUrl: /sredevops-upptime
+  cname: status.sredevops.cl
+#  baseUrl: /sredevops-upptime
   logoUrl: https://sredevops.cl/content/images/2023/06/ghost.svg
   name: SREDevOps.cl
   introTitle: Uptime monitor and status for some of our websites
