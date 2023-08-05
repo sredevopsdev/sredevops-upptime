@@ -3,18 +3,18 @@ owner: sredevopsdev # Your GitHub organization or username, where this repositor
 repo: sredevops-upptime # The name of this repository
 
 sites:
-  - name: SREDevOps.cl
-    url: https://SREDevOps.cl
-  - name: ElClaustro.cl
-    url: https://ElClaustro.cl
-  - name: DarkCorp.cl
-    url: https://DarkCorp.cl
-  - name: SweetCaroline.cl
-    url: https://SweetCaroline.cl
-  - name: Redacted
-    url: "${{ secrets.REDACTED_URL }}"
-    __dangerous__insecure: true
-    
+- name: SREDevOps.cl
+  url: https://SREDevOps.cl
+- name: ElClaustro.cl
+  url: https://ElClaustro.cl
+- name: DarkCorp.cl
+  url: https://DarkCorp.cl
+- name: SweetCaroline.cl
+  url: https://SweetCaroline.cl
+- name: Redacted
+  url: $REDACTED_URL
+  __dangerous__insecure: true
+
 commitMessages:
   commitAuthorName: "Upptime Bot"
   commitAuthorEmail: "upptime@sredevops.cl"
@@ -22,19 +22,19 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.sredevops.cl
-#  baseUrl: /sredevops-upptime
+  #  baseUrl: /sredevops-upptime
   logoUrl: https://sredevops.cl/content/images/2023/06/ghost.svg
   name: SREDevOps.cl
   introTitle: Uptime monitor and status for some of our websites
   introMessage: Powered by [**Upptime**](https://github.com/upptime/upptime)
   theme: night
   navbar:
-    - title: Status
-      href: /
-    - title: Repo GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Blog
-      href: https://sredevops.cl
+  - title: Status
+    href: /
+  - title: Repo GitHub
+    href: https://github.com/$OWNER/$REPO
+  - title: Sitio Web
+    href: https://sredevops.cl
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
