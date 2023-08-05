@@ -18,7 +18,7 @@ on:
 jobs:
   release:
     name: Setup Upptime
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -62,4 +62,4 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "Upptime Bot"
-          user_email: "73812536+upptime-bot@users.noreply.github.com"
+          user_email: "upptime@sredevops.cl"
