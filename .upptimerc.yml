@@ -1,5 +1,5 @@
 # Change these first
-owner: sredevopsdev # Your GitHub organization or username, where this repository lives
+owner: sredevopsorg # Your GitHub organization or username, where this repository lives
 repo: sredevops-upptime # The name of this repository
 
 sites:
@@ -23,7 +23,7 @@ commitMessages:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.sredevops.cl
+  cname: status.sredevops.org
   #  baseUrl: /sredevops-upptime
   logoUrl: https://raw.githubusercontent.com/sredevopsdev/sredevops-web/ghost/images/2023/06/ghost.svg
   name: SREDevOps.org
