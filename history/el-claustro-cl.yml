@@ -1,7 +1,7 @@
 url: https://ElClaustro.cl
-status: up
-code: 200
-responseTime: 1793
-lastUpdated: 2023-08-21T19:07:18.605Z
+status: down
+code: 500
+responseTime: 10732
+lastUpdated: 2023-08-21T19:20:38.543Z
 startTime: 2023-08-01T15:29:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
