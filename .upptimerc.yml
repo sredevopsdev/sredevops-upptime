@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.sredevops.org
   #  baseUrl: /sredevops-upptime
-  logoUrl: https://raw.githubusercontent.com/sredevopsdev/sredevops-web/ghost/images/2023/06/ghost.svg
+  logoUrl: https://user-images.githubusercontent.com/34670018/277867298-6878e00f-635c-4553-8df7-3b20406fdb4f.png
   name: SREDevOps.org
   introTitle: Uptime monitor and status for some of our websites
   introMessage: Powered by [**Upptime**](https://github.com/upptime/upptime)
