@@ -1,7 +1,7 @@
 url: https://sredevops.org
-status: up
-code: 200
-responseTime: 838
-lastUpdated: 2023-11-01T23:10:05.947Z
+status: down
+code: 521
+responseTime: 351
+lastUpdated: 2023-11-01T23:50:09.987Z
 startTime: 2023-08-09T08:40:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
