@@ -1,7 +1,7 @@
 url: $REDACTED_URL
-status: down
-code: 503
-responseTime: 717
-lastUpdated: 2023-11-11T08:57:35.915Z
+status: up
+code: 401
+responseTime: 532
+lastUpdated: 2023-11-11T09:11:39.761Z
 startTime: 2023-11-04T03:11:13.450Z
 generator: Upptime <https://github.com/upptime/upptime>
